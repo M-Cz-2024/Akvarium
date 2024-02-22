@@ -1,0 +1,21 @@
+.toggler {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.toggler button {
+    margin: 5px 10px;
+    font-size: 1.2rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+}
+
+.aktivni {
+    background-color: white
+}
+
+.neaktivni {
+    background-color: rgb(126, 197, 230);
+}

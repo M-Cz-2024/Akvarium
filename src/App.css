@@ -1,0 +1,20 @@
+.App {
+    width:500px;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+    background-color:rgb(214, 223, 233);
+    padding: 10px;
+    border: 2px solid red;
+    
+}
+
+.App h2 {
+    text-align: center;
+}
+
+.all {
+    min-width: 100%;
+    min-height: 98vh;
+    background-color: rgb(159, 230, 206);
+
+}
